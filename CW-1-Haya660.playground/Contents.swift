@@ -3,14 +3,14 @@ import UIKit
 
 let name = "Haya"
 
-var height = 171
+var height = 1.71
 var age = 17
 var hobby1 = "writing"
 var hobby2 = "baking"
 
-print("My name is \(name) and my height is \(height)cm. I am \(age) years old and my hobbies are \(hobby1) and \(hobby2). " )
+print("My name is \(name) and my height is \(height)m. I am \(age) years old and my hobbies are \(hobby1) and \(hobby2). " )
 var friendname = "hessa"
-var friendheight = 165
+var friendheight = 1.65
 var friendage = 18
 var friendhobby1 = "painting"
 var friendhobby2 = "sewing"
